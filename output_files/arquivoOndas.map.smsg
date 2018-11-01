@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at MultiplexEscreveBancoReg.v(6): object "saida" differs only in case from object "SAIDA" in the same scope
+Warning (10268): Verilog HDL information at CONTROL.v(25): always construct contains both blocking and non-blocking assignments
