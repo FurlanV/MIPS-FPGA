@@ -1,0 +1,344 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Programas\altera\13.0
+vADD
+Z1 !s100 0fWP]InPOl^GP3@fRlM_B2
+Z2 IFAPh<A4>_<25BLQU8gz4E3
+Z3 VimeDU=CLW`L<9iHVIY=o?0
+Z4 dC:\Users\Luis Carlos\Desktop\TP02-OC1-PT1\ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2\CaminhoDados\modelsim
+Z5 w1465997592
+Z6 8C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ADD.v
+Z7 FC:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ADD.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|MIPS|C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ADD.v|
+Z10 o-work MIPS -O0
+Z11 n@a@d@d
+Z12 !s108 1528922430.346000
+Z13 !s107 C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ADD.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z14 !s100 NA_e35k0MmCZQO6To0_jY2
+Z15 IH=AL`YJf5zmZ0hkMAZfZb3
+Z16 VPG_hE<<7nWmMdK_^3>G7E1
+R4
+Z17 w1465997664
+Z18 8C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ALU.v
+Z19 FC:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ALU.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|MIPS|C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ALU.v|
+R10
+Z21 n@a@l@u
+Z22 !s108 1528922430.518000
+Z23 !s107 C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALUCONTROL
+Z24 !s100 ?R0Zna87409z58?li[PLR0
+Z25 IZ?P>fJo28XDlh[WG7Fl1<2
+Z26 V]nRiV]GjbQ;[hnjH0?l5K1
+R4
+Z27 w1465997694
+Z28 8C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ALUCONTROL.v
+Z29 FC:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ALUCONTROL.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|MIPS|C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ALUCONTROL.v|
+R10
+Z31 n@a@l@u@c@o@n@t@r@o@l
+Z32 !s108 1528922430.728000
+Z33 !s107 C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ALUCONTROL.v|
+!i10b 1
+!s85 0
+!s101 -O0
+varquivoOndas
+Z34 !s100 8j8UZeZ^V;`?0doi3SQCU3
+Z35 Idk[Ke1Ol[28_]FRTL3oSa2
+Z36 V<M3Dh<c;7:gJ83FYd=kE`2
+R4
+Z37 w1528922350
+Z38 8C:\Users\Luis Carlos\Desktop\TP02-OC1-PT1\ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2\CaminhoDados\mainCaminhoDados2.v
+Z39 FC:\Users\Luis Carlos\Desktop\TP02-OC1-PT1\ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2\CaminhoDados\mainCaminhoDados2.v
+L0 47
+R8
+r1
+31
+Z40 !s108 1528922431.942000
+Z41 !s107 C:\Users\Luis Carlos\Desktop\TP02-OC1-PT1\ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2\CaminhoDados\mainCaminhoDados2.v|
+Z42 !s90 -reportprogress|300|-work|MIPS|C:\Users\Luis Carlos\Desktop\TP02-OC1-PT1\ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2\CaminhoDados\mainCaminhoDados2.v|
+R10
+Z43 narquivo@ondas
+!i10b 1
+!s85 0
+!s101 -O0
+vBANCOREGS
+Z44 !s100 5PD2PCS7g;cfjZ[ceMa8`3
+Z45 Il>C[APi5i8zcFWe<b7b0l3
+Z46 VSm57gOnUbBVUIPPY7EN6Y3
+R4
+Z47 w1465997850
+Z48 8C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/BANCOREGS.v
+Z49 FC:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/BANCOREGS.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|MIPS|C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/BANCOREGS.v|
+R10
+Z51 n@b@a@n@c@o@r@e@g@s
+Z52 !s108 1528922430.952000
+Z53 !s107 C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/BANCOREGS.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCONTROL
+Z54 !s100 4;Id:=ijRRN7O`NREVKZX3
+Z55 I<j>H^E]h1h=]dKh6A[;802
+Z56 V0DQ6?1]d6Ka`z1QN<Q@A`0
+R4
+Z57 w1465997754
+Z58 8C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/CONTROL.v
+Z59 FC:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/CONTROL.v
+L0 2
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|MIPS|C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/CONTROL.v|
+R10
+Z61 n@c@o@n@t@r@o@l
+Z62 !s108 1528922431.325000
+Z63 !s107 C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/CONTROL.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecodificador
+Z64 !s100 [L2o03K837VmL:_1d>iF71
+Z65 ISL>oNFD?ho4f8dJ>2^:Uz1
+Z66 V8hi6JTYMnIYYGNlMQzijV0
+R4
+R37
+R38
+R39
+L0 18
+R8
+r1
+31
+R40
+R41
+R42
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vDESVIO2ESQ
+Z67 !s100 5oocAgGQDBiO1daWZHMJJ1
+Z68 I8B2HnoJWYg``gj>P9dfB10
+Z69 VZCZUg;CDRh4U0cz2?^<^K0
+R4
+Z70 w1465997896
+Z71 8C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/DESVIO2ESQ.v
+Z72 FC:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/DESVIO2ESQ.v
+L0 1
+R8
+r1
+31
+Z73 !s90 -reportprogress|300|-work|MIPS|C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/DESVIO2ESQ.v|
+R10
+Z74 n@d@e@s@v@i@o2@e@s@q
+Z75 !s108 1528922431.530000
+Z76 !s107 C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/DESVIO2ESQ.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdivisorFrequencia
+Z77 !s100 2FKP`GbjQ0jO7HKX3[Bie3
+Z78 I]KlM4C;zfZI1h043D9OPB2
+Z79 V?R<ZkM_cENWoPc^Uh7c^[3
+R4
+R37
+R38
+R39
+L0 3
+R8
+r1
+31
+R40
+R41
+R42
+R10
+Z80 ndivisor@frequencia
+!i10b 1
+!s85 0
+!s101 -O0
+vExtSinal
+Z81 !s100 @_ZN]Yi_MPh[L42andYKg2
+Z82 IfTk1[:PZ@fgM[oEP_gN>G0
+Z83 V1>gQF[mBQSV8;CXPm;SoQ2
+R4
+Z84 w1465997926
+Z85 8C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ExtSinal.v
+Z86 FC:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ExtSinal.v
+L0 1
+R8
+r1
+31
+Z87 !s90 -reportprogress|300|-work|MIPS|C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ExtSinal.v|
+R10
+Z88 n@ext@sinal
+Z89 !s108 1528922431.788000
+Z90 !s107 C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ExtSinal.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEMDADOS
+Z91 !s100 E0z1U5?hch;dd8cWE?I[D3
+Z92 IPflSITB??[;VeV>5OLUH<0
+Z93 V5@]n`GTATPh_R0D75Pc:f2
+R4
+Z94 w1465997776
+Z95 8C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MEMDADOS.v
+Z96 FC:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MEMDADOS.v
+L0 1
+R8
+r1
+31
+Z97 !s90 -reportprogress|300|-work|MIPS|C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MEMDADOS.v|
+R10
+Z98 n@m@e@m@d@a@d@o@s
+Z99 !s108 1528922432.137000
+Z100 !s107 C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MEMDADOS.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemInstrucao
+Z101 !s100 dE=k0U7548g]GL0kJL8hb0
+Z102 IPa5AURi`mda]6BK8iKHW80
+Z103 V6B8202_[jomn`X]N4nB]j3
+R4
+Z104 w1465998694
+Z105 8C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MemInstrucao.v
+Z106 FC:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MemInstrucao.v
+L0 1
+R8
+r1
+31
+Z107 !s108 1528922432.368000
+Z108 !s107 C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MemInstrucao.v|
+Z109 !s90 -reportprogress|300|-work|MIPS|C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MemInstrucao.v|
+R10
+Z110 n@mem@instrucao
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplexEscreveBancoReg
+Z111 !s100 a5oC9h><4:Ml]1N=F]PW33
+Z112 Iee^RRgTeZ6J_7ULOlnhY>1
+Z113 VJ4T]HULHF`3_o>S0?a5]j0
+R4
+Z114 w1465997546
+Z115 8C:\Users\Luis Carlos\Desktop\TP02-OC1-PT1\ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2\CaminhoDados\MultiplexEscreveBancoReg.v
+Z116 FC:\Users\Luis Carlos\Desktop\TP02-OC1-PT1\ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2\CaminhoDados\MultiplexEscreveBancoReg.v
+L0 1
+R8
+r1
+31
+Z117 !s90 -reportprogress|300|-work|MIPS|C:\Users\Luis Carlos\Desktop\TP02-OC1-PT1\ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2\CaminhoDados\MultiplexEscreveBancoReg.v|
+R10
+Z118 n@multiplex@escreve@banco@reg
+Z119 !s108 1528922432.547000
+Z120 !s107 C:\Users\Luis Carlos\Desktop\TP02-OC1-PT1\ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2\CaminhoDados\MultiplexEscreveBancoReg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX2_1_2
+Z121 !s100 GGM[V?A=hK__]4_P;k>z]2
+Z122 IQ4^oazCh5AcJn^IF2mBQX0
+Z123 V7550a;A[UX92QVk4Z<mZ72
+R4
+Z124 w1465997574
+Z125 8C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MUX2_1_2.v
+Z126 FC:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MUX2_1_2.v
+L0 1
+R8
+r1
+31
+Z127 !s90 -reportprogress|300|-work|MIPS|C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MUX2_1_2.v|
+R10
+Z128 n@m@u@x2_1_2
+Z129 !s108 1528922432.751000
+Z130 !s107 C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MUX2_1_2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z131 !s100 08FQ`<LaJ?JU]mKQ`AbLG3
+Z132 IJimYKIP_i=>gM;RZONaLV0
+Z133 VAQV4h<>RBE05zeXaZ:JAY1
+R4
+Z134 w1465997508
+Z135 8C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/PC.v
+Z136 FC:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/PC.v
+L0 2
+R8
+r1
+31
+Z137 !s90 -reportprogress|300|-work|MIPS|C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/PC.v|
+R10
+n@p@c
+!i10b 1
+!s85 0
+Z138 !s108 1528922432.988000
+Z139 !s107 C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/PC.v|
+!s101 -O0
+vPORTAAND
+Z140 !s100 a?6zYX2OLke_;>k=LdE4@1
+Z141 IVL;hn1zd^2jQ?]3`gjmGi3
+Z142 Vh=ifb87Y`cZIN:ml[h29K3
+R4
+R104
+R105
+R106
+L0 18
+R8
+r1
+31
+R107
+R108
+R109
+R10
+Z143 n@p@o@r@t@a@a@n@d
+!i10b 1
+!s85 0
+!s101 -O0
+vSOMA4
+!i10b 1
+Z144 !s100 WRoGbU78OAZ0_g5;nTPQK2
+Z145 IFKa:Zkjl8oXB]ga4II1^]3
+Z146 VkjTWBZ6dTTeFDLa_2@eJH3
+R4
+Z147 w1465997636
+Z148 8C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/SOMA4.v
+Z149 FC:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/SOMA4.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1528922433.157000
+!s107 C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/SOMA4.v|
+Z150 !s90 -reportprogress|300|-work|MIPS|C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/SOMA4.v|
+!s101 -O0
+R10
+Z151 n@s@o@m@a4

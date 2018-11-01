@@ -1,0 +1,106 @@
+{C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/PC.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/PC.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ALUCONTROL.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ALUCONTROL.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALUCONTROL
+
+Top level modules:
+	ALUCONTROL
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/BANCOREGS.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/BANCOREGS.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BANCOREGS
+
+Top level modules:
+	BANCOREGS
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MUX2_1_2.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MUX2_1_2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX2_1_2
+
+Top level modules:
+	MUX2_1_2
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MemInstrucao.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MemInstrucao.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MemInstrucao
+-- Compiling module PORTAAND
+
+Top level modules:
+	MemInstrucao
+	PORTAAND
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/CONTROL.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/CONTROL.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CONTROL
+
+Top level modules:
+	CONTROL
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/mainCaminhoDados2.v} {1 {vlog -work MIPS {C:\Users\Luis Carlos\Desktop\TP02-OC1-PT1\ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2\CaminhoDados\mainCaminhoDados2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module divisorFrequencia
+-- Compiling module decodificador
+-- Compiling module arquivoOndas
+
+Top level modules:
+	arquivoOndas
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ALU.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MEMDADOS.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MEMDADOS.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEMDADOS
+
+Top level modules:
+	MEMDADOS
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/MultiplexEscreveBancoReg.v} {1 {vlog -work MIPS {C:\Users\Luis Carlos\Desktop\TP02-OC1-PT1\ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2\CaminhoDados\MultiplexEscreveBancoReg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MultiplexEscreveBancoReg
+
+Top level modules:
+	MultiplexEscreveBancoReg
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/SOMA4.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/SOMA4.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SOMA4
+
+Top level modules:
+	SOMA4
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/DESVIO2ESQ.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/DESVIO2ESQ.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DESVIO2ESQ
+
+Top level modules:
+	DESVIO2ESQ
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ExtSinal.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ExtSinal.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ExtSinal
+
+Top level modules:
+	ExtSinal
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ADD.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/ADD.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ADD
+
+Top level modules:
+	ADD
+
+} {} {}} {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/blocos.v} {1 {vlog -work MIPS {C:/Users/Luis Carlos/Desktop/TP02-OC1-PT1/ViniciusFurlan1785AntonioAlmeida2632-OC1-PT2/CaminhoDados/blocos.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}}
